@@ -36,7 +36,7 @@
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(800, 450);
       this.Name = "Form1";
-      this.Text = "Form1";
+      this.Text = "Key Movement";
       this.Paint += new System.Windows.Forms.PaintEventHandler(this.onPaint);
       this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.onKeyDown);
       this.ResumeLayout(false);
